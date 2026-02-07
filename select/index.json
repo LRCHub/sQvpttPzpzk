@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "LAZY",
+  "base_artist": "a子",
+  "createdAt": "2026-02-07T18:32:04.019410Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lazy Girl Dolce Far Niente",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Lazy_Girl_Dolce_Far_Niente_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lazy Girl (Dolce Far Niente)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Lazy_Girl_(Dolce_Far_Niente)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lazy Afternoon",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/03_Lazy_Afternoon_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lazy Religion",
+      "artist": "Young Galaxy",
+      "has_synced": true,
+      "path": "select/04_Lazy_Religion_Young_Galaxy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lazy",
+      "artist": "Love and Rockets",
+      "has_synced": true,
+      "path": "select/05_Lazy_Love_and_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All the Lazy Dykes",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/06_All_the_Lazy_Dykes_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lazy",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/07_Lazy_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lazy Blues",
+      "artist": "Mississippi John Hurt",
+      "has_synced": false,
+      "path": "select/08_Lazy_Blues_Mississippi_John_Hurt.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Lazy Sunbathers",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/09_The_Lazy_Sunbathers_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lazy Old Sun",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/10_Lazy_Old_Sun_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lazy",
+      "artist": "X-Press 2",
+      "has_synced": false,
+      "path": "select/11_Lazy_X-Press_2.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lazy Days",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/12_Lazy_Days_Enya.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lazy Days",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/13_Lazy_Days_Enya.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fingers of Steel (Lazy Flow Remix)",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/14_Fingers_of_Steel_(Lazy_Flow_Remix)_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lazy Boy",
+      "artist": "The Voidz",
+      "has_synced": true,
+      "path": "select/15_Lazy_Boy_The_Voidz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lazy Poker Blues",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/16_Lazy_Poker_Blues_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Night Lazy",
+      "artist": "Add N to (X)",
+      "has_synced": false,
+      "path": "select/17_All_Night_Lazy_Add_N_to_(X).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lazy Day",
+      "artist": "Beach Fossils",
+      "has_synced": true,
+      "path": "select/18_Lazy_Day_Beach_Fossils.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAZY",
+      "artist": "a子",
+      "has_synced": false,
+      "path": "select/pl_01_LAZY_a子.txt"
+    }
+  ]
+}
